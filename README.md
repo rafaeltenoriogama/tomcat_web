@@ -1,3 +1,5 @@
 # tomcat_web
 
-[Image](./imgs/readme_bgr.png)
+<div>
+<img src="./imgs/readme_bgr.png">
+</div>
